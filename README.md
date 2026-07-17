@@ -6,13 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumariraunak-creator" alt="kumariraunak-creator" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rau_nak_" target="blank"><img src="https://img.shields.io/twitter/follow/rau_nak_?logo=twitter&style=for-the-badge" alt="rau_nak_" /></a> </p>
-
-- 🔭 I’m currently working on [Titanic survival Prediction](https://github.com/kumariraunak-creator/Titanic-Survival-Prediction)
-
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Data Structures & Algorithms**
-
-- 👯 I’m looking to collaborate on [Machine Learning Projects](https://github.com/kumariraunak-creator)
-
 - 👨‍💻 All of my projects are available at [https://kumariraunak-creator.github.io/Portfolio-Website/](https://kumariraunak-creator.github.io/Portfolio-Website/)
 
 - 💬 Ask me about **Python , Machine Learning , Java, Git , GitHub**
